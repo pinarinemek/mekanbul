@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 const anaSayfa = function (req , res , next) {
-    res.render('anaSayfa', { title: 'Anasayfa' });
+    res.render('anasayfa', { title: 'Anasayfa' });
 }
 
 const mekanBilgisi = function (req , res , next) {
