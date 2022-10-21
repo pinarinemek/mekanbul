@@ -38,14 +38,16 @@ const mekanBilgisi = function (req , res , next) {
         "adress": "Centrum Garden AVM",
         "saatler": [
             {
-                "günler": "Pazartesi - Cuma",
-                "acilis": "09:00-23:00",
-                "kapali" : "false"
+                "gunler": "Pazartesi - Cuma",
+                "acilis": "09:00",
+                "kapanis": "23:00",
+                "kapali" : false
             },
             {
-                "günler": "Cumartesi - Pazar",
-                "acilis": "08:00-22:00",
-                "kapali" : "false"
+                "gunler": "Cumartesi - Pazar",
+                "acilis": "10:00",
+                "kapanis":"22:00",
+                "kapali" : false
             }
         ],
         "imkanlar" : ["Kahve", "Çay", "Pasta"],
