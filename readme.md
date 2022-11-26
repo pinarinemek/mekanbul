@@ -6,3 +6,7 @@
 ![](images/getMekanId.png)
 [3.Bir Mekana Ait Belirli Yorumu Getir](https://mekanbul5.pnarnemek.repl.co/api/mekanlar/6379031699f5801297874da3/yorumlar/63790320beb75d1b8f6b6aab)
 ![](images/getMekanYorum.png)
+
+# Mekanbul Rest API Test Sonucu
+---
+![](images/api.png)
